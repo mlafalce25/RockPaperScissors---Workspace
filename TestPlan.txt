@@ -1,0 +1,13 @@
+Test Plan(*order of input matters)
+
+Rock + Paper = Player2 Wins
+Rock + Scissors = Player1 Wins
+Rock + Rock = Its a tie
+
+Scissors + Paper = Player1 Wins
+Scissors + Scissors = Its a tie
+Scissors + Rock = Player2 Wins
+
+Paper + Paper = Its a tie
+Paper + Scissors = Player2 Wins
+Paper + Rock = Player1 Wins
